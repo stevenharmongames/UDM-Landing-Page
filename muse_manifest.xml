@@ -1,0 +1,125 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ultradancemurdergame.com" resolutions="1x" timestamp="1519028111285">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3956054303" ref="index"/>
+    <file name="udm-presskit.css" crc="3759351676" ref="udm-presskit"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:udm-presskit"/>
+    <file name="museutils.js" crc="3803043152" ref="index:udm-presskit"/>
+    <file name="whatinput.js" crc="86476730" ref="index:udm-presskit"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:udm-presskit"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:udm-presskit"/>
+    <file name="require.js" crc="4157109226" ref="index:udm-presskit"/>
+  </folder>
+  <folder name="images">
+    <file name="img_background.png" crc="3922579749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_title.png" crc="4007605174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_videocover_left.png" crc="3790182069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_videocover_right.png" crc="252818973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_videocover_top.png" crc="4195503145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u419-8.png" crc="430195142" ref="index"/>
+    <file name="img_screenshots.png" crc="4094806643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_icon_link.png" crc="3784082839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_icon_twitter.png" crc="3900879398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_icon_mail.png" crc="245971082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u746.png" crc="505644619" ref="index"/>
+    <file name="u746-r.png" crc="3808773014" ref="index"/>
+    <file name="u746-m.png" crc="392807516" ref="index"/>
+    <file name="u726.png" crc="4076681021" ref="index"/>
+    <file name="u726-r.png" crc="4214629850" ref="index"/>
+    <file name="u726-m.png" crc="333182497" ref="index"/>
+    <file name="u736.png" crc="4218632323" ref="index"/>
+    <file name="u736-r.png" crc="231270750" ref="index"/>
+    <file name="u736-m.png" crc="222179995" ref="index"/>
+    <file name="u763.png" crc="366172036" ref="index"/>
+    <file name="u763-r.png" crc="4060119370" ref="index"/>
+    <file name="u763-m.png" crc="3845344739" ref="index"/>
+    <file name="gamejoltbanner.jpg" crc="276872507" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="screenshot03.jpg" crc="4130152313" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="screenshot08.jpg" crc="265872308" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="screenshot10.jpg" crc="245557602" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="screenshot05.jpg" crc="404288822" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="screenshot01.jpg" crc="4017227550" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="screenshot11.jpg" crc="3788310140" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="screenshot06.jpg" crc="3938307030" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="screenshot02.jpg" crc="4202649067" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="gameplay 00.gif" crc="470967827" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="gameplay 01.gif" crc="4068456359" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="gameplay 02.gif" crc="248924031" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="gameplay 03.gif" crc="536205429" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="gameplay 04.gif" crc="3923783067" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="gameplay 05.gif" crc="336445488" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="gameplay 06.gif" crc="292932015" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="gameplay 07.gif" crc="3937206618" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="hero image.jpg" crc="4181034319" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="udm title.png" crc="4035097824" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="banner.jpg" crc="3759248601" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="udm box img2.jpg" crc="496321718" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+    <file name="udm box img1.jpg" crc="4085405011" seo="true" ref="udm-presskit">
+      <caption webpage="udm-presskit" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="238033531" seo="true" mt="1519025499487" redirect="true"/>
+  <file name="udm-presskit.html" crc="76568275" seo="true" mt="1519027931606" redirect="true"/>
+</manifest>
